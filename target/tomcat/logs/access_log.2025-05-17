@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:17:48 +0100] "GET /library_api HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:17:49 +0100] "GET /library_api/ HTTP/1.1" 200 52 http-bio-8080-exec-3 637
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:17:49 +0100] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:17:51 +0100] "GET /library_api HTTP/1.1" 302 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:17:51 +0100] "GET /library_api/ HTTP/1.1" 200 52 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:17:57 +0100] "GET /library_api HTTP/1.1" 302 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:17:57 +0100] "GET /library_api/ HTTP/1.1" 200 52 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:26:01 +0100] "GET /library_api HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:26:01 +0100] "GET /library_api/ HTTP/1.1" 200 52 http-bio-8080-exec-3 47
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:58:10 +0100] "GET /library_api HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:58:10 +0100] "GET /library_api/ HTTP/1.1" 200 52 http-bio-8080-exec-3 41
+0:0:0:0:0:0:0:1 - - [17/May/2025:09:58:14 +0100] "GET /library_api/book HTTP/1.1" 404 983 http-bio-8080-exec-4 2
